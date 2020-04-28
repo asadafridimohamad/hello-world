@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+hi friends
+
+mohammad here, i like coding 
+
